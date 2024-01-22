@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GoodBlueItem
+comment0.text=\n\ A\ type\ of\ BlueItem\ created\ by\ a\ BlueItemFactory\n\ \n\ @author\ Skyler\ Calaman\ and\ Connie\ Yang\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=boolean\ isGarbage()
+numComments=2

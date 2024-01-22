@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BlueItem
+comment0.text=\n\ A\ BeltItem\ created\ by\ a\ GreenItemFactory\n\ \n\ @author\ Skyler\ Calaman\ and\ Connie\ Yang\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=void\ destroy()
+comment2.params=
+comment2.target=void\ doAction()
+comment3.params=x
+comment3.target=void\ setWorldX(int)
+numComments=4

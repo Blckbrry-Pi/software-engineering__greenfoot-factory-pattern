@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BlueItemFactory
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlueItemFactory\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=double\ getSecondDelay()
+comment3.params=
+comment3.target=BlueItem\ create()
+comment4.params=
+comment4.target=int\ getWorldX()
+numComments=5

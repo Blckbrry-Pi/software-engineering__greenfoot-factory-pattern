@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ConveyorBelt
+comment0.text=\n\ Write\ a\ description\ of\ class\ ConveyorBelt\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=position\ item
+comment1.target=void\ addItem(double,\ BeltItem)
+comment10.params=
+comment10.target=void\ act()
+comment10.text=\n\ Act\ -\ do\ whatever\ the\ ConveyorBelt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment11.params=
+comment11.target=void\ updateImage()
+comment2.params=factory
+comment2.target=void\ addFactory(BeltItemFactory)
+comment3.params=pos
+comment3.target=int\ getWorldX(double)
+comment4.params=worldX
+comment4.target=double\ getInternalPos(int)
+comment5.params=
+comment5.target=void\ advanceItems()
+comment6.params=
+comment6.target=void\ cullItems()
+comment7.params=
+comment7.target=void\ activate()
+comment8.params=
+comment8.target=void\ cullGarbage()
+comment9.params=
+comment9.target=void\ generate()
+numComments=12
